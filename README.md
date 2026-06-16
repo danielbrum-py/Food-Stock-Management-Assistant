@@ -33,9 +33,8 @@ Instead of requiring users to manually edit spreadsheets, the system provides an
 ```text
 FoodStockManagement/
 
-├── main.py
-├── baixa_do_estoque.xlsx
-├── requirements.txt
+├── Stock_Management.py
+├── food-stock-management-demo.mp4
 └── README.md
 ```
 
